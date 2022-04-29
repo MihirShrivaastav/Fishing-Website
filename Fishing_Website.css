@@ -96,7 +96,7 @@ img.head
 }
 .para
 {
-    font-size: 1.25;
+    font-size: 1.25em;
 
 }
 .mb-4
@@ -121,4 +121,7 @@ img.head
     margin-left: auto;
     margin-right: auto;
     width: 20%;
-}  
+}
+.form-lable{
+    width: 100px;
+}
